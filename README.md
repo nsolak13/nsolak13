@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**nsolak13/nsolak13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I am learning web and mobile development technologies nowadays. I like Js World so much also enthusiast of Swift.*
 
-Here are some ideas to get you started:
+**Frontend**        HTML | CSS | JavaScript | React.js | Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile**        Swift
+
+**Back-End**        Node.js | C# 
+
+**DataBase**        MS SQL
+
+**Curiosity Of**        Objective C | Kotlin | React Native | Go | Ruby | MathLab | Phyton 
+
+
+
