@@ -11,7 +11,7 @@
 
 **DataBase**		MS SQL
 
-**Curiosity Of**	Objective C | Kotlin | React Native | Go | Ruby | MathLab | Phyton 
+**Curiosity Of**	Objective C | Kotlin | Go | Ruby |
 
 
 
