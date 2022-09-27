@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript and React at Kodluyoruz**
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I regularly write articles on Medium.
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
