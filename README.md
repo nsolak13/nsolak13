@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nsolak13" target="blank"><img src="https://img.shields.io/twitter/follow/nsolak13?logo=twitter&style=for-the-badge" alt="nsolak13" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and React at Kodluyoruz**
+- 🧐 I am currently learning **Javascript and React at Kodluyoruz. (via patika.dev)**
 
-- 📝 I regularly write articles on Medium.
+- 📝 I regularly write articles on **Medium.**
 
-- 💬 Ask me about **HTML, CSS, JS, React**
+- 💬 Ask me about **HTML, CSS, JS, React.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
