@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m focus on learning Javascript&React.<br><br>🤝 I have a strong curiosity about Swift and IOS Development.<br><br>❔Ask me about HTML, CSS, Javascript.<br>
+🎯 I’m focus on learning Javascript&React.<br><br> 🤔 I have a strong curiosity about Swift and IOS Development.<br><br>❔Ask me about HTML, CSS, Javascript.<br>
 
 
 ## 🌐 Socials:
